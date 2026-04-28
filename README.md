@@ -35,11 +35,6 @@ In this technical assessment, you will have to create some automated test cases 
   {}
   ```
 
-- Example of eligible cart response (status 200):
-
-  ```json
-  ```
-
 If there is a missing or a wrong authentication parameter (`auth_v`, `auth_key`, `auth_ts`, `auth_sign`), the API responds with a 401 error.
 
 ## Cart eligibility
